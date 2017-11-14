@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task Application</string>
+    <string name="_129">129</string>
+    <string name="points">points</string>
+    <string name="penelope_cruz">Penelope Cruz</string>
+    <string name="alcobendas_spain">Alcobendas, Spain</string>
+    <string name="_225">225</string>
+    <string name="ms">ms</string>
+    <string name="posts">POSTS</string>
+    <string name="likes">LIKES</string>
+    <string name="wishlist">WISHLIST</string>
+
+</resources>
